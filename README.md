@@ -10,4 +10,4 @@ This model is a fine-tuned version of __alexsherstinsky/Mistral-7B-v0.1-sharded_
     Sliding-Window Attention
     Byte-fallback BPE tokenizer
 
-HoangCuongNguyen/CTI-to-MITRE-dataset is used to fine-tune the LLM  model
+__HoangCuongNguyen/CTI-to-MITRE-dataset__ is used to fine-tune the LLM  model
